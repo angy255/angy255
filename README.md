@@ -12,8 +12,8 @@ I'm a client-focused developer passionate about problem-solving and building str
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ3ZWswamw4YWwzeGptd3N5ZGJhczZ6NjV5OXRwb2k1Mm9uM3VmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
        style="height:300px; width:auto; max-width:100%; object-fit:cover;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk0azRyN3poc2F0N3ZubjZqM3UyYTg3MGRvbnQ0aXJ1ZTd0cnZiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" 
-       style="height:300px; width:auto; max-width:100%; object-fit:cover;">
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk0azRyN3poc2F0N3ZubjZqM3UyYTg3MGRvbnQ0aXJ1ZTd0cnZiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" 
+       style="height:300px; width:auto; max-width:100%; object-fit:cover;"> -->
 </p>
 
 
