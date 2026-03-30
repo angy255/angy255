@@ -1,9 +1,9 @@
-## Hiya, my name is Angy ✨
+## Hi, my name is Angy ✨
 
 I'm a client-focused developer passionate about problem-solving and building strong solutions that connect people!
 
-- 💡 I’m currently working on building a developer community platform 🧑🏿‍💻👩🏻‍💻🧑🏼‍💻👩🏾‍💻
-- 🤝 I’m looking to collaborate on all sorts of projects!
+- Currently building a travel community platform 🗺️
+- Always looking to collaborate on all sorts of projects!
   - Let me know how I can help by emailing me [here](mailto:angymacodes@gmail.com)
  
 <!--
