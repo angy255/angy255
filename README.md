@@ -19,5 +19,5 @@ I'm a client-focused developer passionate about problem-solving and building str
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,vite,bootstrap,nodejs,express,mongodb&perline=12" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,ps,wordpress,linux,vscode,render&perline=12" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,figma,ps,wordpress,vscode,render&perline=12" />
 </div>
